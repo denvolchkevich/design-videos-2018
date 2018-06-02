@@ -10,6 +10,7 @@
   * [AIC. Analytics Day](#)
   * [AIC. Design Day](#)
   * [Mail.Ru Design Conference + Dribbble Meetup](#)
+  * [Дизайн-выходные](#)
 * [Учебные материалы]()
 * [Подкастинг]()
 
